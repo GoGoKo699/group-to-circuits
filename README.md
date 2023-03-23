@@ -2,11 +2,11 @@
 
 #### by  Ruge Lin
 
-This is a repository for the code in the article *Transforming an arbitrary finite group into quantum circuits*. 
+This is a repository for the code in the article *Quantum representation of finite groups*. 
 
 All codes are written in Python. Libraries required:
 
-  - qibo
+  - qibo 0.1.10
   - numpy, random, time
 
 #### Usage
@@ -17,4 +17,4 @@ Be patient, we couldn't have a perfect minimization everytime...
 ##### How to cite
 
 If you use this code in your research, please cite it as follows:
-Ruge Lin (2022). ETransforming an arbitrary finite group into quantum circuits.
+Ruge Lin (2022). Quantum representation of finite groups.
