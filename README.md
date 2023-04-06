@@ -11,6 +11,7 @@ All codes are written in Python. Libraries required:
 
 #### Usage
 This is an example of the application of Variational Quantum Algorithm to transform the 16 elements finite group C2*D4 into quantum circuits.
+Details are provided in document.pdf.
 The python script can be run directly after all required libraies are installed.
 Be patient, we couldn't have a perfect minimization everytime...
 
