@@ -18,4 +18,4 @@ Be patient, we couldn't have a perfect minimization everytime...
 ##### How to cite
 
 If you use this code in your research, please cite it as follows:
-Ruge Lin (2022). Quantum representation of finite groups.
+Ruge Lin (2024). Quantum representation of finite groups.
